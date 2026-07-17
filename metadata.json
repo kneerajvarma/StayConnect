@@ -1,0 +1,6 @@
+{
+  "name": "StayConnect",
+  "description": "StayConnect is a complete homestay reservation platform featuring administrative and customer dashboards, room search, booking management, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
